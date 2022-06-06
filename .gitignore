@@ -1,0 +1,9 @@
+my_project
+movie_dict.pkl
+movies.pkl
+Procfile
+Requirements.txt
+setup.sh
+similarity.pkl
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
